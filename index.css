@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cabecera{
+    width: 80%;
+    margin: 0px auto;
+    text-align: center;
+    align-self: center;
+}
+
+#nombre-tienda{
+    height: 50px;
+}
+
+#pag-principal{
+    width: 80%;
+    margin: 0px auto;
+}
+
+.carrito-compras{
+    width: 20%;
+    float: left;
+    padding: 5px;
+    border-style: groove;
+}
+
+.contenedor-mangas{
+    width: 80%;
+    float: left;
+}
+
+.mostrar-productos{
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+    height: 220px;
+}
+
+.lista{
+    padding: 0%;
+}
